@@ -1,8 +1,6 @@
 # PIetapa7
 Sistemas de venda para loja de flores
 
-# Tecnologias ultilizadas 
-
 ## Status do Projeto
 
 Em desenvolvimento
